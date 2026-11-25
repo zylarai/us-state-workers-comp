@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "US state workers' compensation requirements for small businesses (50 states and DC, 2026)"
+authors:
+  - name: "Zylar"
+    website: "https://zylarai.com"
+type: dataset
+license: CC-BY-4.0
+url: "https://zylarai.com/start-a-business"
+repository-code: "https://github.com/zylarai/us-state-workers-comp"
+date-released: "2026-11-25"
+version: "2026.11"
+keywords:
+  - workers compensation
+  - small business
+  - employers
+  - United States

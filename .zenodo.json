@@ -1,0 +1,8 @@
+{
+  "upload_type": "dataset",
+  "title": "US state workers' compensation requirements for small businesses (50 states and DC, 2026)",
+  "creators": [{"name": "Zylar"}],
+  "license": "cc-by-4.0",
+  "keywords": ["workers compensation", "small business", "employers", "United States"],
+  "description": "For each US state and DC: when a small business must carry workers' compensation (employee threshold as the state words it), construction and farm rules, owner and sole proprietor rules, exemption forms, insurance market (private, state fund, monopolistic), private opt-out, penalties, coverage lookup and first-hire registration links. Values from official state pages opened November 24-25, 2026, with sources per row; values not confirmed are left empty with the reason. General information, not legal or insurance advice. CC BY 4.0."
+}
