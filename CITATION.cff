@@ -7,6 +7,7 @@ authors:
 type: dataset
 license: CC-BY-4.0
 url: "https://zylarai.com/start-a-business"
+doi: "10.5281/zenodo.24531495"
 repository-code: "https://github.com/zylarai/us-state-workers-comp"
 date-released: "2026-11-25"
 version: "2026.11"

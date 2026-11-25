@@ -19,9 +19,12 @@ Every value comes from an official state page: the workers' compensation agency,
 
 Published by [Zylar](https://zylarai.com/?utm_source=github&utm_medium=referral&utm_campaign=dataset_workers_comp&utm_content=readme) under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You may use, share and adapt it, including commercially, if you credit Zylar and link to the source.
 
+Archived on Zenodo: DOI [10.5281/zenodo.24531495](https://doi.org/10.5281/zenodo.24531495).
+
 Companion datasets:
 - [US state LLC formation and yearly fees](https://github.com/zylarai/us-state-llc-fees) (DOI [10.5281/zenodo.24404984](https://doi.org/10.5281/zenodo.24404984))
 - [US state seller's permits and business licenses](https://github.com/zylarai/us-state-selling-permits) (DOI [10.5281/zenodo.24483920](https://doi.org/10.5281/zenodo.24483920))
+- [US state required workplace posters](https://github.com/zylarai/us-state-workplace-posters) (DOI [10.5281/zenodo.24531513](https://doi.org/10.5281/zenodo.24531513))
 
 ## What the official pages say
 
@@ -75,7 +78,7 @@ Companion datasets:
 
 ## How to cite
 
-Zylar (2026). *US state workers' compensation requirements for small businesses (50 states and DC, 2026)* (Version v2026.11) [Data set]. https://github.com/zylarai/us-state-workers-comp
+Zylar (2026). *US state workers' compensation requirements for small businesses (50 states and DC, 2026)* (Version v2026.11) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24531495
 
 ## About Zylar
 
