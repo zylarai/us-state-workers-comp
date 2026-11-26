@@ -82,4 +82,4 @@ Zylar (2026). *US state workers' compensation requirements for small businesses 
 
 ## About Zylar
 
-Zylar checks a business or startup idea before you build it. It looks at what the market says, who else does it, whether you can deliver it and what could go wrong, and gives a scored verdict in a few minutes. It is in early alpha: [join the waitlist](https://zylarai.com/?utm_source=github&utm_medium=referral&utm_campaign=dataset_workers_comp&utm_content=readme_about#waitlist). Advisory only. You decide.
+Zylar checks a business or startup idea before you build it. It looks at what the market says, who else does it, whether you can deliver it and what could go wrong, and gives a scored verdict in a few minutes. It is in early alpha and free to try: [sign up here](https://zylarai.com/?utm_source=github&utm_medium=referral&utm_campaign=dataset_workers_comp&utm_content=readme_about). Advisory only. You decide.
